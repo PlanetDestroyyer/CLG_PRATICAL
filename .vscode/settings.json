@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.mojo": "mojo",
+        "iostream": "cpp"
+    }
+}
